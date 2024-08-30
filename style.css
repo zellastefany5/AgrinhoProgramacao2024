@@ -25,7 +25,7 @@
 }
 
 .agricultura {
-    background-image: linear-gradient(#013004, #104205);
+    background-image: linear-gradient(#78a206, #0fab46);
     color: white;
     display: flex;
     justify-content: center;
@@ -53,7 +53,7 @@
 
 
 .rodapé {
-    background-color: #002403;
+    background-color: #0aa717;
     color: #ffffff;
     font-size: 20px;
     display: flex;
